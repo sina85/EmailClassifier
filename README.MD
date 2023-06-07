@@ -11,7 +11,7 @@ This project aims to classify emails and provides an easy-to-use graphical user 
 ## Usage
 
 1. Clone the repository.
-2. Install the required Python libraries using pip: `pip install -r requirements.txt`.
+2. Install the required Python libraries using pip: `pip install openai ezgmail`.
 3. Run the `main.py` script in Python: `python main.py`.
 
 ## Customization
