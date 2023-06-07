@@ -125,7 +125,7 @@ def classify_email(email_content):
     :return: String, classification result.
     """
 
-    openai.api_key = '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'
+    openai.api_key = 'Insert your API key here'
 
     if not email_content:
         return 'Others'
